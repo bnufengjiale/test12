@@ -1,0 +1,11 @@
+Hello Dr. Chen,
+I am jiale feng. Nice to meet you.
+Recently I am learning CUED-RNNLM, it is a good toolkit for recurrent neural network language model training and evaluation.
+However when I read your article, ¡°Future Word Context in Neural Network Language Model¡±, there are some issues I am a little confused. In the Section 6, Experimental
+results show that su-RNNLMs achieve a good performance , but I do not know how to set the parameters of the CUED-RNNLM. Is the parameter of succlayers same as the parameter of layersizes? For example, setting layers is 40003:250i:250g:20003 and setting succlayers is40003:250:250:20003. And when I do experiment of su-RNNLMs I get a poorer performance than RNNLMs without future words.
+Could you please help me to solve them out? Thank you very much.
+Best Regards.
+Jiale feng
+
+
+xc257@eng.cam.ac.uk   xc257@cam.ac.uk
